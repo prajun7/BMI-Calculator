@@ -5,4 +5,7 @@ The BMI is defined as the body mass divided by the square of the body height, an
  
 I am using React to create the BMI Calculator.
 
+<img width="533" alt="Screen Shot 2022-01-24 at 1 58 27 PM" src="https://user-images.githubusercontent.com/67757251/150855354-56b08c91-ba11-4f1e-a252-45f4e42f54e0.png">
+
+
 
